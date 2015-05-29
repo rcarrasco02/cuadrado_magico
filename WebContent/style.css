@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.cm_cell{
+	width: 3em;
+	height: 3em; 
+	text-align: center;
+	
+}
+.invalid{
+	background-color : red;
+	color: white;
+}
+.success{
+	background-color : green;
+	color: white;
+}
+td{
+	text-align: center;
+}
